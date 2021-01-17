@@ -1,5 +1,5 @@
 print ('Welcome to git')
-print ('Today is Sunday')
+print ('Tomorrow is cloudy')
 
 print ('Function 1:')
 
