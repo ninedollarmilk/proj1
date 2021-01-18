@@ -7,5 +7,6 @@ print ('Board 3: Nitro: prime')
 print ('Board 4: Rome: mod rocker')
 print ('Board 5: Salomon: huck knife')
 print ('Board 6: DC: maybe next board? or go back to rome?')
+print ('Board 7: November: cat board?')
 
 
